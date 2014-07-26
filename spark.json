@@ -1,7 +1,7 @@
 {
     "name": "sparkOSC_emergent.io",
     "version": "0.0.1",
-    "author": "Conner Lacy <email@somesite.com>",
-    "license": "Choose a license",
+    "author": "Conner Lacy <conner@emergent.io>",
+    "license": "BSD",
     "description": "This library streamlines the use of the OSC (Open Sound Control) protocol."
 }
